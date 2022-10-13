@@ -1,0 +1,98 @@
+[
+  {
+    "num_epochs": 1,
+    "performance": 0.9606
+  },
+  {
+    "num_epochs": 2,
+    "performance": 0.967
+  },
+  {
+    "num_epochs": 3,
+    "performance": 0.9687
+  },
+  {
+    "num_epochs": 4,
+    "performance": 0.9704
+  },
+  {
+    "num_epochs": 5,
+    "performance": 0.97
+  },
+  {
+    "num_epochs": 6,
+    "performance": 0.9691
+  },
+  {
+    "num_epochs": 7,
+    "performance": 0.967
+  },
+  {
+    "num_epochs": 8,
+    "performance": 0.9694
+  },
+  {
+    "num_epochs": 9,
+    "performance": 0.968
+  },
+  {
+    "num_epochs": 10,
+    "performance": 0.968
+  },
+  {
+    "num_epochs": 11,
+    "performance": 0.9688
+  },
+  {
+    "num_epochs": 12,
+    "performance": 0.9672
+  },
+  {
+    "num_epochs": 13,
+    "performance": 0.9668
+  },
+  {
+    "num_epochs": 14,
+    "performance": 0.9644
+  },
+  {
+    "num_epochs": 15,
+    "performance": 0.965
+  },
+  {
+    "num_epochs": 16,
+    "performance": 0.9641
+  },
+  {
+    "num_epochs": 17,
+    "performance": 0.9658
+  },
+  {
+    "num_epochs": 18,
+    "performance": 0.9627
+  },
+  {
+    "num_epochs": 19,
+    "performance": 0.9619
+  },
+  {
+    "num_epochs": 20,
+    "performance": 0.9639
+  },
+  {
+    "num_epochs": 21,
+    "performance": 0.9633
+  },
+  {
+    "num_epochs": 22,
+    "performance": 0.9602
+  },
+  {
+    "num_epochs": 23,
+    "performance": 0.9618
+  },
+  {
+    "num_epochs": 24,
+    "performance": 0.9565
+  }
+]

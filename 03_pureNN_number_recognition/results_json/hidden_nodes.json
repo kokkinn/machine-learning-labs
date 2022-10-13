@@ -1,0 +1,1598 @@
+[
+  {
+    "hidden_nodes": 1,
+    "performance": 0.1018
+  },
+  {
+    "hidden_nodes": 2,
+    "performance": 0.199
+  },
+  {
+    "hidden_nodes": 3,
+    "performance": 0.3736
+  },
+  {
+    "hidden_nodes": 4,
+    "performance": 0.5539
+  },
+  {
+    "hidden_nodes": 5,
+    "performance": 0.5884
+  },
+  {
+    "hidden_nodes": 6,
+    "performance": 0.7681
+  },
+  {
+    "hidden_nodes": 7,
+    "performance": 0.7494
+  },
+  {
+    "hidden_nodes": 8,
+    "performance": 0.7183
+  },
+  {
+    "hidden_nodes": 9,
+    "performance": 0.8593
+  },
+  {
+    "hidden_nodes": 10,
+    "performance": 0.864
+  },
+  {
+    "hidden_nodes": 11,
+    "performance": 0.8717
+  },
+  {
+    "hidden_nodes": 12,
+    "performance": 0.866
+  },
+  {
+    "hidden_nodes": 13,
+    "performance": 0.8889
+  },
+  {
+    "hidden_nodes": 14,
+    "performance": 0.8853
+  },
+  {
+    "hidden_nodes": 15,
+    "performance": 0.8997
+  },
+  {
+    "hidden_nodes": 16,
+    "performance": 0.8991
+  },
+  {
+    "hidden_nodes": 17,
+    "performance": 0.8954
+  },
+  {
+    "hidden_nodes": 18,
+    "performance": 0.894
+  },
+  {
+    "hidden_nodes": 19,
+    "performance": 0.9024
+  },
+  {
+    "hidden_nodes": 20,
+    "performance": 0.9065
+  },
+  {
+    "hidden_nodes": 21,
+    "performance": 0.9084
+  },
+  {
+    "hidden_nodes": 22,
+    "performance": 0.9107
+  },
+  {
+    "hidden_nodes": 23,
+    "performance": 0.9043
+  },
+  {
+    "hidden_nodes": 24,
+    "performance": 0.9165
+  },
+  {
+    "hidden_nodes": 25,
+    "performance": 0.9102
+  },
+  {
+    "hidden_nodes": 26,
+    "performance": 0.9103
+  },
+  {
+    "hidden_nodes": 27,
+    "performance": 0.9199
+  },
+  {
+    "hidden_nodes": 28,
+    "performance": 0.9089
+  },
+  {
+    "hidden_nodes": 29,
+    "performance": 0.9152
+  },
+  {
+    "hidden_nodes": 30,
+    "performance": 0.911
+  },
+  {
+    "hidden_nodes": 31,
+    "performance": 0.9166
+  },
+  {
+    "hidden_nodes": 32,
+    "performance": 0.9211
+  },
+  {
+    "hidden_nodes": 33,
+    "performance": 0.9165
+  },
+  {
+    "hidden_nodes": 34,
+    "performance": 0.9184
+  },
+  {
+    "hidden_nodes": 35,
+    "performance": 0.9191
+  },
+  {
+    "hidden_nodes": 36,
+    "performance": 0.9207
+  },
+  {
+    "hidden_nodes": 37,
+    "performance": 0.9136
+  },
+  {
+    "hidden_nodes": 38,
+    "performance": 0.9189
+  },
+  {
+    "hidden_nodes": 39,
+    "performance": 0.9191
+  },
+  {
+    "hidden_nodes": 40,
+    "performance": 0.9167
+  },
+  {
+    "hidden_nodes": 41,
+    "performance": 0.9181
+  },
+  {
+    "hidden_nodes": 42,
+    "performance": 0.925
+  },
+  {
+    "hidden_nodes": 43,
+    "performance": 0.9399
+  },
+  {
+    "hidden_nodes": 44,
+    "performance": 0.9336
+  },
+  {
+    "hidden_nodes": 45,
+    "performance": 0.9349
+  },
+  {
+    "hidden_nodes": 46,
+    "performance": 0.9325
+  },
+  {
+    "hidden_nodes": 47,
+    "performance": 0.9268
+  },
+  {
+    "hidden_nodes": 48,
+    "performance": 0.9346
+  },
+  {
+    "hidden_nodes": 49,
+    "performance": 0.9285
+  },
+  {
+    "hidden_nodes": 50,
+    "performance": 0.9385
+  },
+  {
+    "hidden_nodes": 51,
+    "performance": 0.9318
+  },
+  {
+    "hidden_nodes": 52,
+    "performance": 0.9361
+  },
+  {
+    "hidden_nodes": 53,
+    "performance": 0.9364
+  },
+  {
+    "hidden_nodes": 54,
+    "performance": 0.9341
+  },
+  {
+    "hidden_nodes": 55,
+    "performance": 0.9351
+  },
+  {
+    "hidden_nodes": 56,
+    "performance": 0.9366
+  },
+  {
+    "hidden_nodes": 57,
+    "performance": 0.9422
+  },
+  {
+    "hidden_nodes": 58,
+    "performance": 0.9376
+  },
+  {
+    "hidden_nodes": 59,
+    "performance": 0.9372
+  },
+  {
+    "hidden_nodes": 60,
+    "performance": 0.9335
+  },
+  {
+    "hidden_nodes": 61,
+    "performance": 0.9404
+  },
+  {
+    "hidden_nodes": 62,
+    "performance": 0.9409
+  },
+  {
+    "hidden_nodes": 63,
+    "performance": 0.9322
+  },
+  {
+    "hidden_nodes": 64,
+    "performance": 0.9369
+  },
+  {
+    "hidden_nodes": 65,
+    "performance": 0.9362
+  },
+  {
+    "hidden_nodes": 66,
+    "performance": 0.9353
+  },
+  {
+    "hidden_nodes": 67,
+    "performance": 0.9408
+  },
+  {
+    "hidden_nodes": 68,
+    "performance": 0.9435
+  },
+  {
+    "hidden_nodes": 69,
+    "performance": 0.9479
+  },
+  {
+    "hidden_nodes": 70,
+    "performance": 0.9334
+  },
+  {
+    "hidden_nodes": 71,
+    "performance": 0.9389
+  },
+  {
+    "hidden_nodes": 72,
+    "performance": 0.9371
+  },
+  {
+    "hidden_nodes": 73,
+    "performance": 0.9426
+  },
+  {
+    "hidden_nodes": 74,
+    "performance": 0.9439
+  },
+  {
+    "hidden_nodes": 75,
+    "performance": 0.9393
+  },
+  {
+    "hidden_nodes": 76,
+    "performance": 0.948
+  },
+  {
+    "hidden_nodes": 77,
+    "performance": 0.942
+  },
+  {
+    "hidden_nodes": 78,
+    "performance": 0.9361
+  },
+  {
+    "hidden_nodes": 79,
+    "performance": 0.9446
+  },
+  {
+    "hidden_nodes": 80,
+    "performance": 0.946
+  },
+  {
+    "hidden_nodes": 81,
+    "performance": 0.9457
+  },
+  {
+    "hidden_nodes": 82,
+    "performance": 0.9471
+  },
+  {
+    "hidden_nodes": 83,
+    "performance": 0.9432
+  },
+  {
+    "hidden_nodes": 84,
+    "performance": 0.9398
+  },
+  {
+    "hidden_nodes": 85,
+    "performance": 0.9444
+  },
+  {
+    "hidden_nodes": 86,
+    "performance": 0.9461
+  },
+  {
+    "hidden_nodes": 87,
+    "performance": 0.9476
+  },
+  {
+    "hidden_nodes": 88,
+    "performance": 0.9429
+  },
+  {
+    "hidden_nodes": 89,
+    "performance": 0.948
+  },
+  {
+    "hidden_nodes": 90,
+    "performance": 0.942
+  },
+  {
+    "hidden_nodes": 91,
+    "performance": 0.9505
+  },
+  {
+    "hidden_nodes": 92,
+    "performance": 0.9509
+  },
+  {
+    "hidden_nodes": 93,
+    "performance": 0.9463
+  },
+  {
+    "hidden_nodes": 94,
+    "performance": 0.9467
+  },
+  {
+    "hidden_nodes": 95,
+    "performance": 0.9518
+  },
+  {
+    "hidden_nodes": 96,
+    "performance": 0.9507
+  },
+  {
+    "hidden_nodes": 97,
+    "performance": 0.95
+  },
+  {
+    "hidden_nodes": 98,
+    "performance": 0.9532
+  },
+  {
+    "hidden_nodes": 99,
+    "performance": 0.9489
+  },
+  {
+    "hidden_nodes": 100,
+    "performance": 0.9503
+  },
+  {
+    "hidden_nodes": 101,
+    "performance": 0.9516
+  },
+  {
+    "hidden_nodes": 102,
+    "performance": 0.9555
+  },
+  {
+    "hidden_nodes": 103,
+    "performance": 0.9549
+  },
+  {
+    "hidden_nodes": 104,
+    "performance": 0.9519
+  },
+  {
+    "hidden_nodes": 105,
+    "performance": 0.9511
+  },
+  {
+    "hidden_nodes": 106,
+    "performance": 0.9534
+  },
+  {
+    "hidden_nodes": 107,
+    "performance": 0.9543
+  },
+  {
+    "hidden_nodes": 108,
+    "performance": 0.9483
+  },
+  {
+    "hidden_nodes": 109,
+    "performance": 0.946
+  },
+  {
+    "hidden_nodes": 110,
+    "performance": 0.9537
+  },
+  {
+    "hidden_nodes": 111,
+    "performance": 0.9501
+  },
+  {
+    "hidden_nodes": 112,
+    "performance": 0.952
+  },
+  {
+    "hidden_nodes": 113,
+    "performance": 0.9547
+  },
+  {
+    "hidden_nodes": 114,
+    "performance": 0.951
+  },
+  {
+    "hidden_nodes": 115,
+    "performance": 0.9545
+  },
+  {
+    "hidden_nodes": 116,
+    "performance": 0.9537
+  },
+  {
+    "hidden_nodes": 117,
+    "performance": 0.9525
+  },
+  {
+    "hidden_nodes": 118,
+    "performance": 0.9538
+  },
+  {
+    "hidden_nodes": 119,
+    "performance": 0.9488
+  },
+  {
+    "hidden_nodes": 120,
+    "performance": 0.9543
+  },
+  {
+    "hidden_nodes": 121,
+    "performance": 0.9544
+  },
+  {
+    "hidden_nodes": 122,
+    "performance": 0.9494
+  },
+  {
+    "hidden_nodes": 123,
+    "performance": 0.9553
+  },
+  {
+    "hidden_nodes": 124,
+    "performance": 0.9563
+  },
+  {
+    "hidden_nodes": 125,
+    "performance": 0.9518
+  },
+  {
+    "hidden_nodes": 126,
+    "performance": 0.9545
+  },
+  {
+    "hidden_nodes": 127,
+    "performance": 0.9511
+  },
+  {
+    "hidden_nodes": 128,
+    "performance": 0.9545
+  },
+  {
+    "hidden_nodes": 129,
+    "performance": 0.9539
+  },
+  {
+    "hidden_nodes": 130,
+    "performance": 0.9521
+  },
+  {
+    "hidden_nodes": 131,
+    "performance": 0.954
+  },
+  {
+    "hidden_nodes": 132,
+    "performance": 0.955
+  },
+  {
+    "hidden_nodes": 133,
+    "performance": 0.9547
+  },
+  {
+    "hidden_nodes": 134,
+    "performance": 0.9565
+  },
+  {
+    "hidden_nodes": 135,
+    "performance": 0.9537
+  },
+  {
+    "hidden_nodes": 136,
+    "performance": 0.9552
+  },
+  {
+    "hidden_nodes": 137,
+    "performance": 0.9532
+  },
+  {
+    "hidden_nodes": 138,
+    "performance": 0.96
+  },
+  {
+    "hidden_nodes": 139,
+    "performance": 0.9582
+  },
+  {
+    "hidden_nodes": 140,
+    "performance": 0.9536
+  },
+  {
+    "hidden_nodes": 141,
+    "performance": 0.9568
+  },
+  {
+    "hidden_nodes": 142,
+    "performance": 0.9563
+  },
+  {
+    "hidden_nodes": 143,
+    "performance": 0.9543
+  },
+  {
+    "hidden_nodes": 144,
+    "performance": 0.9556
+  },
+  {
+    "hidden_nodes": 145,
+    "performance": 0.9551
+  },
+  {
+    "hidden_nodes": 146,
+    "performance": 0.9584
+  },
+  {
+    "hidden_nodes": 147,
+    "performance": 0.9556
+  },
+  {
+    "hidden_nodes": 148,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 149,
+    "performance": 0.9583
+  },
+  {
+    "hidden_nodes": 150,
+    "performance": 0.9553
+  },
+  {
+    "hidden_nodes": 151,
+    "performance": 0.9554
+  },
+  {
+    "hidden_nodes": 152,
+    "performance": 0.9573
+  },
+  {
+    "hidden_nodes": 153,
+    "performance": 0.9537
+  },
+  {
+    "hidden_nodes": 154,
+    "performance": 0.9573
+  },
+  {
+    "hidden_nodes": 155,
+    "performance": 0.9565
+  },
+  {
+    "hidden_nodes": 156,
+    "performance": 0.9566
+  },
+  {
+    "hidden_nodes": 157,
+    "performance": 0.9576
+  },
+  {
+    "hidden_nodes": 158,
+    "performance": 0.9575
+  },
+  {
+    "hidden_nodes": 159,
+    "performance": 0.9565
+  },
+  {
+    "hidden_nodes": 160,
+    "performance": 0.9523
+  },
+  {
+    "hidden_nodes": 161,
+    "performance": 0.9588
+  },
+  {
+    "hidden_nodes": 162,
+    "performance": 0.9567
+  },
+  {
+    "hidden_nodes": 163,
+    "performance": 0.9549
+  },
+  {
+    "hidden_nodes": 164,
+    "performance": 0.9589
+  },
+  {
+    "hidden_nodes": 165,
+    "performance": 0.9586
+  },
+  {
+    "hidden_nodes": 166,
+    "performance": 0.9552
+  },
+  {
+    "hidden_nodes": 167,
+    "performance": 0.9603
+  },
+  {
+    "hidden_nodes": 168,
+    "performance": 0.9559
+  },
+  {
+    "hidden_nodes": 169,
+    "performance": 0.957
+  },
+  {
+    "hidden_nodes": 170,
+    "performance": 0.957
+  },
+  {
+    "hidden_nodes": 171,
+    "performance": 0.9527
+  },
+  {
+    "hidden_nodes": 172,
+    "performance": 0.9584
+  },
+  {
+    "hidden_nodes": 173,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 174,
+    "performance": 0.96
+  },
+  {
+    "hidden_nodes": 175,
+    "performance": 0.9533
+  },
+  {
+    "hidden_nodes": 176,
+    "performance": 0.9551
+  },
+  {
+    "hidden_nodes": 177,
+    "performance": 0.9566
+  },
+  {
+    "hidden_nodes": 178,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 179,
+    "performance": 0.9554
+  },
+  {
+    "hidden_nodes": 180,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 181,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 182,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 183,
+    "performance": 0.9569
+  },
+  {
+    "hidden_nodes": 184,
+    "performance": 0.9576
+  },
+  {
+    "hidden_nodes": 185,
+    "performance": 0.9568
+  },
+  {
+    "hidden_nodes": 186,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 187,
+    "performance": 0.9577
+  },
+  {
+    "hidden_nodes": 188,
+    "performance": 0.9569
+  },
+  {
+    "hidden_nodes": 189,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 190,
+    "performance": 0.9573
+  },
+  {
+    "hidden_nodes": 191,
+    "performance": 0.956
+  },
+  {
+    "hidden_nodes": 192,
+    "performance": 0.9596
+  },
+  {
+    "hidden_nodes": 193,
+    "performance": 0.9586
+  },
+  {
+    "hidden_nodes": 194,
+    "performance": 0.953
+  },
+  {
+    "hidden_nodes": 195,
+    "performance": 0.956
+  },
+  {
+    "hidden_nodes": 196,
+    "performance": 0.9588
+  },
+  {
+    "hidden_nodes": 197,
+    "performance": 0.9577
+  },
+  {
+    "hidden_nodes": 198,
+    "performance": 0.9566
+  },
+  {
+    "hidden_nodes": 199,
+    "performance": 0.9603
+  },
+  {
+    "hidden_nodes": 200,
+    "performance": 0.9563
+  },
+  {
+    "hidden_nodes": 201,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 202,
+    "performance": 0.9575
+  },
+  {
+    "hidden_nodes": 203,
+    "performance": 0.956
+  },
+  {
+    "hidden_nodes": 204,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 205,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 206,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 207,
+    "performance": 0.9575
+  },
+  {
+    "hidden_nodes": 208,
+    "performance": 0.9588
+  },
+  {
+    "hidden_nodes": 209,
+    "performance": 0.9569
+  },
+  {
+    "hidden_nodes": 210,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 211,
+    "performance": 0.953
+  },
+  {
+    "hidden_nodes": 212,
+    "performance": 0.9565
+  },
+  {
+    "hidden_nodes": 213,
+    "performance": 0.9578
+  },
+  {
+    "hidden_nodes": 214,
+    "performance": 0.9613
+  },
+  {
+    "hidden_nodes": 215,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 216,
+    "performance": 0.9588
+  },
+  {
+    "hidden_nodes": 217,
+    "performance": 0.9609
+  },
+  {
+    "hidden_nodes": 218,
+    "performance": 0.9552
+  },
+  {
+    "hidden_nodes": 219,
+    "performance": 0.9574
+  },
+  {
+    "hidden_nodes": 220,
+    "performance": 0.9603
+  },
+  {
+    "hidden_nodes": 221,
+    "performance": 0.9577
+  },
+  {
+    "hidden_nodes": 222,
+    "performance": 0.9573
+  },
+  {
+    "hidden_nodes": 223,
+    "performance": 0.957
+  },
+  {
+    "hidden_nodes": 224,
+    "performance": 0.9609
+  },
+  {
+    "hidden_nodes": 225,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 226,
+    "performance": 0.9576
+  },
+  {
+    "hidden_nodes": 227,
+    "performance": 0.9575
+  },
+  {
+    "hidden_nodes": 228,
+    "performance": 0.9583
+  },
+  {
+    "hidden_nodes": 229,
+    "performance": 0.9564
+  },
+  {
+    "hidden_nodes": 230,
+    "performance": 0.9589
+  },
+  {
+    "hidden_nodes": 231,
+    "performance": 0.9579
+  },
+  {
+    "hidden_nodes": 232,
+    "performance": 0.9608
+  },
+  {
+    "hidden_nodes": 233,
+    "performance": 0.9595
+  },
+  {
+    "hidden_nodes": 234,
+    "performance": 0.9606
+  },
+  {
+    "hidden_nodes": 235,
+    "performance": 0.9611
+  },
+  {
+    "hidden_nodes": 236,
+    "performance": 0.9576
+  },
+  {
+    "hidden_nodes": 237,
+    "performance": 0.9595
+  },
+  {
+    "hidden_nodes": 238,
+    "performance": 0.9574
+  },
+  {
+    "hidden_nodes": 239,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 240,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 241,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 242,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 243,
+    "performance": 0.9616
+  },
+  {
+    "hidden_nodes": 244,
+    "performance": 0.9581
+  },
+  {
+    "hidden_nodes": 245,
+    "performance": 0.9627
+  },
+  {
+    "hidden_nodes": 246,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 247,
+    "performance": 0.9622
+  },
+  {
+    "hidden_nodes": 248,
+    "performance": 0.9568
+  },
+  {
+    "hidden_nodes": 249,
+    "performance": 0.9613
+  },
+  {
+    "hidden_nodes": 250,
+    "performance": 0.9607
+  },
+  {
+    "hidden_nodes": 251,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 252,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 253,
+    "performance": 0.9559
+  },
+  {
+    "hidden_nodes": 254,
+    "performance": 0.9577
+  },
+  {
+    "hidden_nodes": 255,
+    "performance": 0.9572
+  },
+  {
+    "hidden_nodes": 256,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 257,
+    "performance": 0.9598
+  },
+  {
+    "hidden_nodes": 258,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 259,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 260,
+    "performance": 0.9567
+  },
+  {
+    "hidden_nodes": 261,
+    "performance": 0.9589
+  },
+  {
+    "hidden_nodes": 262,
+    "performance": 0.9596
+  },
+  {
+    "hidden_nodes": 263,
+    "performance": 0.9598
+  },
+  {
+    "hidden_nodes": 264,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 265,
+    "performance": 0.9614
+  },
+  {
+    "hidden_nodes": 266,
+    "performance": 0.9611
+  },
+  {
+    "hidden_nodes": 267,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 268,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 269,
+    "performance": 0.9563
+  },
+  {
+    "hidden_nodes": 270,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 271,
+    "performance": 0.9616
+  },
+  {
+    "hidden_nodes": 272,
+    "performance": 0.9628
+  },
+  {
+    "hidden_nodes": 273,
+    "performance": 0.9611
+  },
+  {
+    "hidden_nodes": 274,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 275,
+    "performance": 0.9578
+  },
+  {
+    "hidden_nodes": 276,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 277,
+    "performance": 0.9609
+  },
+  {
+    "hidden_nodes": 278,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 279,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 280,
+    "performance": 0.9581
+  },
+  {
+    "hidden_nodes": 281,
+    "performance": 0.9605
+  },
+  {
+    "hidden_nodes": 282,
+    "performance": 0.962
+  },
+  {
+    "hidden_nodes": 283,
+    "performance": 0.9579
+  },
+  {
+    "hidden_nodes": 284,
+    "performance": 0.9615
+  },
+  {
+    "hidden_nodes": 285,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 286,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 287,
+    "performance": 0.9589
+  },
+  {
+    "hidden_nodes": 288,
+    "performance": 0.9608
+  },
+  {
+    "hidden_nodes": 289,
+    "performance": 0.9619
+  },
+  {
+    "hidden_nodes": 290,
+    "performance": 0.9611
+  },
+  {
+    "hidden_nodes": 291,
+    "performance": 0.9583
+  },
+  {
+    "hidden_nodes": 292,
+    "performance": 0.9579
+  },
+  {
+    "hidden_nodes": 293,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 294,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 295,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 296,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 297,
+    "performance": 0.9615
+  },
+  {
+    "hidden_nodes": 298,
+    "performance": 0.9583
+  },
+  {
+    "hidden_nodes": 299,
+    "performance": 0.9579
+  },
+  {
+    "hidden_nodes": 300,
+    "performance": 0.9605
+  },
+  {
+    "hidden_nodes": 301,
+    "performance": 0.9622
+  },
+  {
+    "hidden_nodes": 302,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 303,
+    "performance": 0.9623
+  },
+  {
+    "hidden_nodes": 304,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 305,
+    "performance": 0.9605
+  },
+  {
+    "hidden_nodes": 306,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 307,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 308,
+    "performance": 0.9614
+  },
+  {
+    "hidden_nodes": 309,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 310,
+    "performance": 0.9638
+  },
+  {
+    "hidden_nodes": 311,
+    "performance": 0.9596
+  },
+  {
+    "hidden_nodes": 312,
+    "performance": 0.9586
+  },
+  {
+    "hidden_nodes": 313,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 314,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 315,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 316,
+    "performance": 0.9606
+  },
+  {
+    "hidden_nodes": 317,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 318,
+    "performance": 0.9598
+  },
+  {
+    "hidden_nodes": 319,
+    "performance": 0.9581
+  },
+  {
+    "hidden_nodes": 320,
+    "performance": 0.9629
+  },
+  {
+    "hidden_nodes": 321,
+    "performance": 0.9614
+  },
+  {
+    "hidden_nodes": 322,
+    "performance": 0.9621
+  },
+  {
+    "hidden_nodes": 323,
+    "performance": 0.9605
+  },
+  {
+    "hidden_nodes": 324,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 325,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 326,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 327,
+    "performance": 0.9612
+  },
+  {
+    "hidden_nodes": 328,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 329,
+    "performance": 0.9612
+  },
+  {
+    "hidden_nodes": 330,
+    "performance": 0.9618
+  },
+  {
+    "hidden_nodes": 331,
+    "performance": 0.9601
+  },
+  {
+    "hidden_nodes": 332,
+    "performance": 0.9612
+  },
+  {
+    "hidden_nodes": 333,
+    "performance": 0.9591
+  },
+  {
+    "hidden_nodes": 334,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 335,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 336,
+    "performance": 0.9615
+  },
+  {
+    "hidden_nodes": 337,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 338,
+    "performance": 0.9598
+  },
+  {
+    "hidden_nodes": 339,
+    "performance": 0.9587
+  },
+  {
+    "hidden_nodes": 340,
+    "performance": 0.9578
+  },
+  {
+    "hidden_nodes": 341,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 342,
+    "performance": 0.9612
+  },
+  {
+    "hidden_nodes": 343,
+    "performance": 0.9595
+  },
+  {
+    "hidden_nodes": 344,
+    "performance": 0.9599
+  },
+  {
+    "hidden_nodes": 345,
+    "performance": 0.9576
+  },
+  {
+    "hidden_nodes": 346,
+    "performance": 0.9598
+  },
+  {
+    "hidden_nodes": 347,
+    "performance": 0.961
+  },
+  {
+    "hidden_nodes": 348,
+    "performance": 0.961
+  },
+  {
+    "hidden_nodes": 349,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 350,
+    "performance": 0.9615
+  },
+  {
+    "hidden_nodes": 351,
+    "performance": 0.9613
+  },
+  {
+    "hidden_nodes": 352,
+    "performance": 0.9611
+  },
+  {
+    "hidden_nodes": 353,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 354,
+    "performance": 0.9622
+  },
+  {
+    "hidden_nodes": 355,
+    "performance": 0.9585
+  },
+  {
+    "hidden_nodes": 356,
+    "performance": 0.9593
+  },
+  {
+    "hidden_nodes": 357,
+    "performance": 0.9563
+  },
+  {
+    "hidden_nodes": 358,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 359,
+    "performance": 0.96
+  },
+  {
+    "hidden_nodes": 360,
+    "performance": 0.9642
+  },
+  {
+    "hidden_nodes": 361,
+    "performance": 0.9626
+  },
+  {
+    "hidden_nodes": 362,
+    "performance": 0.9596
+  },
+  {
+    "hidden_nodes": 363,
+    "performance": 0.9615
+  },
+  {
+    "hidden_nodes": 364,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 365,
+    "performance": 0.9606
+  },
+  {
+    "hidden_nodes": 366,
+    "performance": 0.9605
+  },
+  {
+    "hidden_nodes": 367,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 368,
+    "performance": 0.9579
+  },
+  {
+    "hidden_nodes": 369,
+    "performance": 0.9613
+  },
+  {
+    "hidden_nodes": 370,
+    "performance": 0.9618
+  },
+  {
+    "hidden_nodes": 371,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 372,
+    "performance": 0.9604
+  },
+  {
+    "hidden_nodes": 373,
+    "performance": 0.9643
+  },
+  {
+    "hidden_nodes": 374,
+    "performance": 0.9607
+  },
+  {
+    "hidden_nodes": 375,
+    "performance": 0.9607
+  },
+  {
+    "hidden_nodes": 376,
+    "performance": 0.9607
+  },
+  {
+    "hidden_nodes": 377,
+    "performance": 0.9577
+  },
+  {
+    "hidden_nodes": 378,
+    "performance": 0.9601
+  },
+  {
+    "hidden_nodes": 379,
+    "performance": 0.959
+  },
+  {
+    "hidden_nodes": 380,
+    "performance": 0.9581
+  },
+  {
+    "hidden_nodes": 381,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 382,
+    "performance": 0.9592
+  },
+  {
+    "hidden_nodes": 383,
+    "performance": 0.962
+  },
+  {
+    "hidden_nodes": 384,
+    "performance": 0.9622
+  },
+  {
+    "hidden_nodes": 385,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 386,
+    "performance": 0.9647
+  },
+  {
+    "hidden_nodes": 387,
+    "performance": 0.9593
+  },
+  {
+    "hidden_nodes": 388,
+    "performance": 0.9601
+  },
+  {
+    "hidden_nodes": 389,
+    "performance": 0.9618
+  },
+  {
+    "hidden_nodes": 390,
+    "performance": 0.9624
+  },
+  {
+    "hidden_nodes": 391,
+    "performance": 0.962
+  },
+  {
+    "hidden_nodes": 392,
+    "performance": 0.9614
+  },
+  {
+    "hidden_nodes": 393,
+    "performance": 0.9593
+  },
+  {
+    "hidden_nodes": 394,
+    "performance": 0.9602
+  },
+  {
+    "hidden_nodes": 395,
+    "performance": 0.9597
+  },
+  {
+    "hidden_nodes": 396,
+    "performance": 0.9594
+  },
+  {
+    "hidden_nodes": 397,
+    "performance": 0.9616
+  },
+  {
+    "hidden_nodes": 398,
+    "performance": 0.9618
+  },
+  {
+    "hidden_nodes": 399,
+    "performance": 0.961
+  }
+]

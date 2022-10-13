@@ -1,0 +1,50 @@
+[
+  {
+    "learning_rate": 0.0001,
+    "performance": 0.6541
+  },
+  {
+    "learning_rate": 0.001,
+    "performance": 0.8175
+  },
+  {
+    "learning_rate": 0.01,
+    "performance": 0.9103
+  },
+  {
+    "learning_rate": 0.1,
+    "performance": 0.9517
+  },
+  {
+    "learning_rate": 0.2,
+    "performance": 0.9544
+  },
+  {
+    "learning_rate": 0.3,
+    "performance": 0.9486
+  },
+  {
+    "learning_rate": 0.4,
+    "performance": 0.9366
+  },
+  {
+    "learning_rate": 0.5,
+    "performance": 0.918
+  },
+  {
+    "learning_rate": 0.6,
+    "performance": 0.9179
+  },
+  {
+    "learning_rate": 0.7,
+    "performance": 0.894
+  },
+  {
+    "learning_rate": 0.8,
+    "performance": 0.8594
+  },
+  {
+    "learning_rate": 0.9,
+    "performance": 0.8652
+  }
+]
